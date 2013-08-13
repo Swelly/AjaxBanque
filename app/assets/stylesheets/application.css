@@ -11,3 +11,18 @@
  *= require_self
  *= require_tree .
  */
+
+body {
+  font-family: 'Antic Slab', serif;
+  background: url('triangular.png');
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+
+.container {
+  margin: 50px auto 0 200px;
+}
+
+h1 {
+  font-size: 50px;
+}
